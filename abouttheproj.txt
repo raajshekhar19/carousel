@@ -1,0 +1,7 @@
+this is a common feature used in a lot of websites.
+first the for each loop is being run and the indexes are multiplied with 100 
+now if the next arrow is clicked then there is a veriable called current variable its valuse is decreased
+then ->
+the first operation (0-1)*100  -100 first image moves -100
+second image moves (1-1)*100 -- 0
+third image moves (2-1)*100 -- 100 
